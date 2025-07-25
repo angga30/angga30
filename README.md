@@ -22,3 +22,7 @@ IT enthusiast deeply focused on software development, particularly in Python and
 - LinkedIn: linkedin.com/in/angga-prabuwisesa 
 - Phone: 628975115906 
 - Location: Bogor, Jawa Barat, Indonesia 
+
+
+# Badge
+![Alt text](https://tryhackme-badges.s3.amazonaws.com/brandalcodinf.png)
